@@ -1,8 +1,6 @@
 ##add your info here
-
-host = ''
-user = ''
+host = 'localhost'
+user = 'postgres'
 password = ''
-database = ''
-port = ''
-
+database = 'sqlhw'
+port = '5432'
